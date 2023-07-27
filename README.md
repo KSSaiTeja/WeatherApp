@@ -4,7 +4,7 @@ I am gonna showing to you how to code a weather app with javascript. in this tut
 
 ### Warning
 
-You need to get your own api key, and replace it in index.js file on line 9 :
+You need to get your own api key :
 
 ```javascript
 const APIKey = "Your Api Key";
@@ -14,4 +14,4 @@ const APIKey = "Your Api Key";
 
 Here we have project screenshot :
 
-![screenshot](assets/WeatherApp.png)
+![Demo Image](assets/WeatherApp.png);
